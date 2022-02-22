@@ -1,0 +1,1 @@
+# quarkus-kafka-avro-schema-consumer
